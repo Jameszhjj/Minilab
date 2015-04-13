@@ -1,5 +1,5 @@
 {
 "bookinformations":[
 {"title":"C++ Primer","author":"Stanley B.Lippman","version":"fiveth","price":"128"},
-{"title":"Think in Java","author":"Bruce Eckel","version":"fourth","price":"108"},
+{"title":"Think in Java","author":"Bruce Eckel","version":"fourth","price":"108"}
 ]}
